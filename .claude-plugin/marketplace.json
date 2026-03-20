@@ -1,0 +1,22 @@
+{
+  "name": "victor-skills-marketplace",
+  "owner": {
+    "name": "Victor Blaga"
+  },
+  "metadata": {
+    "description": "Custom Claude Code skills and workflows",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "victor-claude-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/victorblaga/victor-claude-skills.git"
+      },
+      "description": "Custom skills: deep-implement (end-to-end implementation workflow), mega-review (comprehensive code review), grill-me (design interrogation)",
+      "version": "1.0.0",
+      "strict": true
+    }
+  ]
+}
