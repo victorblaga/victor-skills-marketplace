@@ -4,7 +4,7 @@ Claude Code plugin marketplace for custom skills.
 
 ## Available Plugins
 
-- **victor-claude-skills** — deep-implement, mega-review, grill-me
+- **victor-claude-skills** — deep-implement, mega-review, grill-me, cross-examine, long-form-article
 
 ## Usage
 
