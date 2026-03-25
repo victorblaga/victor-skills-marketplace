@@ -15,7 +15,7 @@
         "url": "https://github.com/victorblaga/victor-claude-skills.git"
       },
       "description": "Custom skills: deep-implement (end-to-end implementation workflow), mega-review (comprehensive code review), grill-me (design interrogation), cross-examine (codebase Q&A with evidence), architect (top-down code architecture and refactoring)",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "strict": true
     }
   ]
