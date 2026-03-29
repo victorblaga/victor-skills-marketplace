@@ -14,8 +14,8 @@
         "source": "url",
         "url": "https://github.com/victorblaga/victor-claude-skills.git"
       },
-      "description": "Custom skills: deep-implement, mega-review, review-triage, grill-me, cross-examine, architect, engineer, surgeon",
-      "version": "1.8.0",
+      "description": "Custom skills: forge, deep-implement, mega-review, review-triage, grill-me, cross-examine, architect, engineer, surgeon",
+      "version": "1.9.0",
       "strict": true
     }
   ]
