@@ -15,7 +15,7 @@
         "url": "https://github.com/victorblaga/victor-claude-skills.git"
       },
       "description": "Custom skills: forge, deep-implement, mega-review, review-triage, grill-me, cross-examine, architect, engineer, surgeon, llm-council, sweep",
-      "version": "1.11.0",
+      "version": "1.12.0",
       "strict": true
     }
   ]
